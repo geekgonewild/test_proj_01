@@ -1,0 +1,7 @@
+total 8
+drwxr-xr-x   6 newl  staff  204 Apr  3 16:19 .
+drwx------+  9 newl  staff  306 Apr  3 16:13 ..
+drwxr-xr-x  13 newl  staff  442 Apr  3 16:17 .git
+-rw-r--r--   1 newl  staff   38 Apr  3 16:16 README.md
+-rw-r--r--   1 root  staff    0 Apr  3 16:18 testfile.txt
+-rw-r--r--   1 root  staff    0 Apr  3 16:19 testfile2.txt
